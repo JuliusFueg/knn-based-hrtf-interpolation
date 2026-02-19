@@ -90,8 +90,8 @@ ax.set_zticklabels(['Unten', '', 'Oben'])
 plt.show()
 
 ### knn ###
-# in this example, we have a set of 170 HRTFs and their coordinates (azimuth, 
-# elevation, distance)
+# in this example, a set of 170 HRTFs and their coordinates (azimuth, 
+# elevation, distance) is used
 
 # read in IR positions in degrees
 azimuth_deg = positions[:,0]
